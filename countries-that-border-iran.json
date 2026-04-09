@@ -3,7 +3,7 @@
     "title": "Afghanistan",
     "definition": "Country to the east of Iran sharing a long desert border",
     "capital": "Kabul",
-    "colorPallete": 0
+    "colorPallete": 1
   },
   "2": {
     "title": "Armenia",
@@ -27,7 +27,7 @@
     "title": "Pakistan",
     "definition": "Southeastern neighbor of Iran across the Balochistan region",
     "capital": "Islamabad",
-    "colorPallete": 0
+    "colorPallete": 1
   },
   "6": {
     "title": "Turkey",
