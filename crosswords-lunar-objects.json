@@ -1,0 +1,36 @@
+{
+  "placeholder": "7,9,54,76,80,104,111,133",
+  "across": {
+    "3": {
+      "clue": "A bowl-shaped depression on a surface"
+    },
+    "5": {
+      "clue": "A book of maps of the world"
+    },
+    "7": {
+      "clue": "An extremely luminous active galactic nucleus"
+    },
+    "8": {
+      "clue": "A star that suddenly increases in brightness"
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Relating to the Moon"
+    },
+    "2": {
+      "clue": "An icy body with a glowing tail"
+    },
+    "4": {
+      "clue": "A vast cloud of gas and dust in space"
+    },
+    "6": {
+      "clue": "Circular path around a planet or star"
+    }
+  },
+  "letters": "LCUONMAECRATEROCNSATLASEMIBOOPQUASARSLBENOVAIT",
+  "words": 8,
+  "rows": 13,
+  "cols": 12,
+  "allowedGrids": "7,9,19,21,31,33,43,45,54,55,56,57,58,59,66,70,76,78,80,81,82,83,84,88,90,94,100,102,104,106,111,112,113,114,115,116,118,124,128,130,133,134,135,136,140,152"
+}
