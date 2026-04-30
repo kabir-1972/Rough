@@ -1,0 +1,39 @@
+{
+  "placeholder": "14,45,55,62,75,77,130,162,209",
+  "across": {
+    "6": {
+      "clue": "simple seating furniture"
+    },
+    "7": {
+      "clue": "small table beside sofa or bed"
+    },
+    "8": {
+      "clue": "bedside wooden table"
+    },
+    "9": {
+      "clue": "low table for living room"
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "long wooden seat for multiple people"
+    },
+    "2": {
+      "clue": "backless wooden seat"
+    },
+    "3": {
+      "clue": "casual dining surface"
+    },
+    "4": {
+      "clue": "wooden storage unit with doors"
+    },
+    "5": {
+      "clue": "wooden storage for books"
+    }
+  },
+  "letters": "BESWNCTBWOODENCHAIROOOHBOODSIDETABLEKENNIGHTSTANDEHTTCOFFEETABLELBFLE",
+  "words": 9,
+  "rows": 13,
+  "cols": 23,
+  "allowedGrids": "14,37,45,55,60,62,68,75,77,78,79,80,81,82,83,84,85,86,87,91,98,101,106,108,114,121,124,130,131,132,133,134,135,136,137,138,144,147,154,162,163,164,165,166,167,168,169,170,171,177,190,193,200,209,210,211,212,213,214,215,216,217,218,219,236,239,259,262,285"
+}
