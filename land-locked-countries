@@ -1,0 +1,39 @@
+{
+  "placeholder": "3,102,134,142,151,205,209,277,291",
+  "across": {
+    "2": {
+      "clue": "South American country that lost its coastline in the War of the Pacific"
+    },
+    "5": {
+      "clue": "Alpine nation famous for neutrality, chocolate, and banking"
+    },
+    "7": {
+      "clue": "Mountainous country in South-Central Asia with a long history of conflict"
+    },
+    "8": {
+      "clue": "Vast Asian country between Russia and China, known for nomadic culture"
+    },
+    "9": {
+      "clue": "World’s largest landlocked country, spanning Europe and Asia"
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "Horn of Africa nation that became landlocked after Eritrea’s independence"
+    },
+    "3": {
+      "clue": "South American country between Brazil, Argentina, and Bolivia"
+    },
+    "4": {
+      "clue": "Central European country once at the heart of the Habsburg Empire"
+    },
+    "6": {
+      "clue": "Landlocked country in Central Europe with Budapest as its capital"
+    }
+  },
+  "letters": "ETHIBOLIVIAPPASWITZERLANDUARSHAFGHANISTANUGRENUIPMONGOLIAKAZAKHSTANAYLRY",
+  "words": 9,
+  "rows": 15,
+  "cols": 25,
+  "allowedGrids": "3,28,53,78,102,103,104,105,106,107,108,128,134,142,151,152,153,154,155,156,157,158,159,160,161,167,178,184,192,205,209,210,211,212,213,214,215,216,217,218,219,230,234,242,244,255,259,267,269,277,278,279,280,281,282,283,284,291,292,293,294,295,296,297,298,299,300,305,309,319,330,355"
+}
