@@ -1,0 +1,36 @@
+{
+  "placeholder": "10,43,81,103,134,161,183,212",
+  "across": {
+    "2": {
+      "clue": "island country in the southwest pacific"
+    },
+    "3": {
+      "clue": "pacific island nation known for tourism"
+    },
+    "5": {
+      "clue": "largest island country in the world"
+    },
+    "6": {
+      "clue": "island country south of india"
+    },
+    "7": {
+      "clue": "low-lying island nation in the indian ocean"
+    },
+    "8": {
+      "clue": "caribbean island country"
+    }
+  },
+  "down": {
+    "1": {
+      "clue": "southeast asian archipelago nation"
+    },
+    "4": {
+      "clue": "large island nation off africa"
+    }
+  },
+  "letters": "PHINEWZEALANDIPFIJIPAIMPNAAEDINDONESIAGSRILANKACSMALDIVESCLACUBARND",
+  "words": 8,
+  "rows": 19,
+  "cols": 13,
+  "allowedGrids": "10,23,36,43,44,45,46,47,48,49,50,51,52,62,75,81,82,83,84,88,96,101,103,109,114,116,122,127,129,134,135,136,137,138,139,140,141,142,155,161,162,163,164,165,166,167,168,176,181,183,184,185,186,187,188,189,190,194,202,207,212,213,214,215,220,228,241"
+}
