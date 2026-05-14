@@ -1,182 +1,102 @@
 {
   "1": {
-    "atFront": {
-      "title": "Femur",
-      "exampleUsage": "The boy broke his femur, making him unable to walk."
-    },
-    "atBack": {
-      "definition": "Bone between the hip and knee"
-    }
+    "title": "Femur",
+    "definition": "Bone between the hip and knee",
+    "exampleUsage": "The boy broke his femur, making him unable to walk."
   },
   "2": {
-    "atFront": {
-      "title": "Tibia",
-      "exampleUsage": "The athlete injured his tibia during the match."
-    },
-    "atBack": {
-      "definition": "Main shin bone in the lower leg"
-    }
+    "title": "Tibia",
+    "definition": "Main shin bone in the lower leg",
+    "exampleUsage": "The athlete injured his tibia during the match."
   },
   "3": {
-    "atFront": {
-      "title": "Fibula",
-      "exampleUsage": "The doctor said her fibula had a small fracture."
-    },
-    "atBack": {
-      "definition": "Thin bone beside the tibia"
-    }
+    "title": "Fibula",
+    "definition": "Thin bone beside the tibia",
+    "exampleUsage": "The doctor said her fibula had a small fracture."
   },
   "4": {
-    "atFront": {
-      "title": "Humerus",
-      "exampleUsage": "He landed badly and cracked his humerus."
-    },
-    "atBack": {
-      "definition": "Upper arm bone between shoulder and elbow"
-    }
+    "title": "Humerus",
+    "definition": "Upper arm bone between shoulder and elbow",
+    "exampleUsage": "He landed badly and cracked his humerus."
   },
   "5": {
-    "atFront": {
-      "title": "Radius",
-      "exampleUsage": "She fractured her radius after falling off the bike."
-    },
-    "atBack": {
-      "definition": "Forearm bone on the thumb side"
-    }
+    "title": "Radius",
+    "definition": "Forearm bone on the thumb side",
+    "exampleUsage": "She fractured her radius after falling off the bike."
   },
   "6": {
-    "atFront": {
-      "title": "Ulna",
-      "exampleUsage": "The ulna helps stabilize the forearm."
-    },
-    "atBack": {
-      "definition": "Forearm bone on the pinky side"
-    }
+    "title": "Ulna",
+    "definition": "Forearm bone on the pinky side",
+    "exampleUsage": "The ulna helps stabilize the forearm."
   },
   "7": {
-    "atFront": {
-      "title": "Clavicle",
-      "exampleUsage": "The cyclist broke his clavicle in the crash."
-    },
-    "atBack": {
-      "definition": "Collarbone connecting shoulder to chest"
-    }
+    "title": "Clavicle",
+    "definition": "Collarbone connecting shoulder to chest",
+    "exampleUsage": "The cyclist broke his clavicle in the crash."
   },
   "8": {
-    "atFront": {
-      "title": "Scapula",
-      "exampleUsage": "Muscles attached to the scapula control shoulder movement."
-    },
-    "atBack": {
-      "definition": "Shoulder blade bone"
-    }
+    "title": "Scapula",
+    "definition": "Shoulder blade bone",
+    "exampleUsage": "Muscles attached to the scapula control shoulder movement."
   },
   "9": {
-    "atFront": {
-      "title": "Sternum",
-      "exampleUsage": "CPR compressions are performed on the sternum."
-    },
-    "atBack": {
-      "definition": "Flat bone in the center of the chest"
-    }
+    "title": "Sternum",
+    "definition": "Flat bone in the center of the chest",
+    "exampleUsage": "CPR compressions are performed on the sternum."
   },
   "10": {
-    "atFront": {
-      "title": "Rib",
-      "exampleUsage": "He bruised a rib while playing football."
-    },
-    "atBack": {
-      "definition": "Curved chest bone protecting organs"
-    }
+    "title": "Rib",
+    "definition": "Curved chest bone protecting organs",
+    "exampleUsage": "He bruised a rib while playing football."
   },
   "11": {
-    "atFront": {
-      "title": "Pelvis",
-      "exampleUsage": "The pelvis supports the upper body."
-    },
-    "atBack": {
-      "definition": "Hip bone structure connecting spine and legs"
-    }
+    "title": "Pelvis",
+    "definition": "Hip bone structure connecting spine and legs",
+    "exampleUsage": "The pelvis supports the upper body."
   },
   "12": {
-    "atFront": {
-      "title": "Patella",
-      "exampleUsage": "The kneecap, or patella, shifted during the injury."
-    },
-    "atBack": {
-      "definition": "Small bone covering the knee joint"
-    }
+    "title": "Patella",
+    "definition": "Small bone covering the knee joint",
+    "exampleUsage": "The kneecap, or patella, shifted during the injury."
   },
   "13": {
-    "atFront": {
-      "title": "Mandible",
-      "exampleUsage": "The boxer suffered a fractured mandible."
-    },
-    "atBack": {
-      "definition": "Lower jaw bone"
-    }
+    "title": "Mandible",
+    "definition": "Lower jaw bone",
+    "exampleUsage": "The boxer suffered a fractured mandible."
   },
   "14": {
-    "atFront": {
-      "title": "Cranium",
-      "exampleUsage": "The cranium protects the brain from injury."
-    },
-    "atBack": {
-      "definition": "Skull structure surrounding the brain"
-    }
+    "title": "Cranium",
+    "definition": "Skull structure surrounding the brain",
+    "exampleUsage": "The cranium protects the brain from injury."
   },
   "15": {
-    "atFront": {
-      "title": "Vertebra",
-      "exampleUsage": "A damaged vertebra can affect spinal movement."
-    },
-    "atBack": {
-      "definition": "Individual bone in the spine"
-    }
+    "title": "Vertebra",
+    "definition": "Individual bone in the spine",
+    "exampleUsage": "A damaged vertebra can affect spinal movement."
   },
   "16": {
-    "atFront": {
-      "title": "Sacrum",
-      "exampleUsage": "The sacrum connects the spine to the pelvis."
-    },
-    "atBack": {
-      "definition": "Triangular bone at the base of the spine"
-    }
+    "title": "Sacrum",
+    "definition": "Triangular bone at the base of the spine",
+    "exampleUsage": "The sacrum connects the spine to the pelvis."
   },
   "17": {
-    "atFront": {
-      "title": "Coccyx",
-      "exampleUsage": "She hurt her coccyx after slipping on the stairs."
-    },
-    "atBack": {
-      "definition": "Tailbone at the end of the spine"
-    }
+    "title": "Coccyx",
+    "definition": "Tailbone at the end of the spine",
+    "exampleUsage": "She hurt her coccyx after slipping on the stairs."
   },
   "18": {
-    "atFront": {
-      "title": "Metacarpal",
-      "exampleUsage": "The x-ray showed a broken metacarpal in his hand."
-    },
-    "atBack": {
-      "definition": "Bone located in the hand"
-    }
+    "title": "Metacarpal",
+    "definition": "Bone located in the hand",
+    "exampleUsage": "The x-ray showed a broken metacarpal in his hand."
   },
   "19": {
-    "atFront": {
-      "title": "Metatarsal",
-      "exampleUsage": "Running injuries often involve the metatarsals."
-    },
-    "atBack": {
-      "definition": "Bone located in the foot"
-    }
+    "title": "Metatarsal",
+    "definition": "Bone located in the foot",
+    "exampleUsage": "Running injuries often involve the metatarsals."
   },
   "20": {
-    "atFront": {
-      "title": "Phalanges",
-      "exampleUsage": "The phalanges are the bones in fingers and toes."
-    },
-    "atBack": {
-      "definition": "Bones forming fingers and toes"
-    }
+    "title": "Phalanges",
+    "definition": "Bones forming fingers and toes",
+    "exampleUsage": "The phalanges are the bones in fingers and toes."
   }
 }
