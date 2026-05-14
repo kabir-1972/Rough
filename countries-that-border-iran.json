@@ -3,42 +3,42 @@
     "title": "Afghanistan",
     "definition": "Country to the east of Iran sharing a long desert border",
     "capital": "Kabul",
-    "colorPallete": 1
+    "colorPalette": 1
   },
   "2": {
     "title": "Armenia",
     "definition": "Small Caucasus country bordering Iran in the northwest",
     "capital": "Yerevan",
-    "colorPallete": 2
+    "colorPalette": 2
   },
   "3": {
     "title": "Azerbaijan",
     "definition": "Country north of Iran along the Aras River",
     "capital": "Baku",
-    "colorPallete": 3
+    "colorPalette": 3
   },
   "4": {
     "title": "Iraq",
     "definition": "Western neighbor of Iran with the longest shared border",
     "capital": "Baghdad",
-    "colorPallete": 4
+    "colorPalette": 4
   },
   "5": {
     "title": "Pakistan",
     "definition": "Southeastern neighbor of Iran across the Balochistan region",
     "capital": "Islamabad",
-    "colorPallete": 1
+    "colorPalette": 1
   },
   "6": {
     "title": "Turkey",
     "definition": "Northwestern neighbor of Iran with a historic boundary",
     "capital": "Ankara",
-    "colorPallete": 5
+    "colorPalette": 5
   },
   "7": {
     "title": "Turkmenistan",
     "definition": "Northeastern neighbor of Iran along the Kopet Dag mountains",
     "capital": "Ashgabat",
-    "colorPallete": 4
+    "colorPalette": 4
   }
 }
